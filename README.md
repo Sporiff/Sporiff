@@ -7,6 +7,5 @@ I'm a technical writer and web developer hailing from Bristol in the UK. I'm int
 - 📖 I'm fluent in Markdown, rST, Asciidoc, and more
 - ☕ I create sites and tools in Javascript/Typescript
 - 🐍 Sometimes I even wrestle Python!
-- 🐳 I'm a project maintainer over at [Funkwhale](https://funkwhale.audio)
 
 📧 If you want to talk, send me an email <cda@sporiff.dev>
